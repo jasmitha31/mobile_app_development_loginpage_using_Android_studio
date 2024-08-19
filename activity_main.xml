@@ -87,14 +87,14 @@
                 android:layout_height="70dp"
                 android:layout_margin="16dp"
                 android:id="@+id/google_btn"
-                android:src="@drawable/google"/>
+                android:src="@drawable/google"/>//download a linkedin logo and name it"google" and paste it in drawable file
 
             <ImageView
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_margin="16dp"
                 android:id="@+id/linkedin_btn"
-                android:src="@drawable/linkedin"/>
+                android:src="@drawable/linkedin"/>   //download a linkedin logo and name it"linkedin" and paste it in drawable file
 
 
         </LinearLayout>
